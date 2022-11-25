@@ -1,4 +1,4 @@
-module xk6-pgp
+module github.com/anil-gangapersaud/xk6-pgp
 
 go 1.19
 
